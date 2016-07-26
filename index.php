@@ -10,8 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>This is a web page created as part of a midterm exam</h1>
     </body>
 </html>
